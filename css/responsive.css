@@ -1,4 +1,4 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 800px) {
 .profile figure img {
   width: 150px;
 
@@ -15,7 +15,7 @@
 .social-networks a{
   margin-top: 0px;
   font-size: 300%;
-  margin: 15px;
+  margin: 10px;
   padding: 15px;
 }
 
